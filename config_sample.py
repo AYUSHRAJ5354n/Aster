@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
 BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+OWNER_ID = 1685470205
+TELEGRAM_API = 28244492
+TELEGRAM_HASH = "38e4ce53faea889073f6f49e83cbc392"
+DATABASE_URL = "mongodb+srv://AYU:AYU@cluster0.ntgbcue.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -20,7 +20,7 @@ STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
 EXCLUDED_EXTENSIONS = ""
-INCOMPLETE_TASK_NOTIFIER = False
+INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SWAP = ""
@@ -28,8 +28,8 @@ FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 
 # Custom Bot Header
-CUSTOM_BOT_HEADER = "Beast"
-CUSTOM_BOT_HEADER_LINK = "https://t.me/MirrorBeast"
+CUSTOM_BOT_HEADER = "AYU-BOTS"
+CUSTOM_BOT_HEADER_LINK = "https://t.me/AYU_BOTS"
 
 # Hyper Tg Downloader
 HELPER_TOKENS = ""
@@ -47,8 +47,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "Beast"
-AUTHOR_URL = "https://t.me/MirrorBeast"
+AUTHOR_NAME = "AYU-BOTS"
+AUTHOR_URL = "https://t.me/AYU_BOTS"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -107,7 +107,7 @@ TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded by Beast"
+GD_DESP = "Uploaded by AYU-BOTS"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
@@ -156,7 +156,7 @@ UPDATE_PKGS = True
 LEECH_SPLIT_SIZE = 0
 AS_DOCUMENT = False
 EQUAL_SPLITS = False
-MEDIA_GROUP = False
+MEDIA_GROUP = True
 USER_TRANSMISSION = True
 HYBRID_LEECH = True
 LEECH_PREFIX = ""
