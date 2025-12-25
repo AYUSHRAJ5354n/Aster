@@ -3,7 +3,7 @@ BOT_TOKEN = ""
 OWNER_ID = 1685470205
 TELEGRAM_API = 28244492
 TELEGRAM_HASH = "38e4ce53faea889073f6f49e83cbc392"
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://Leech:Leech@cluster0.cdfffk1.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
